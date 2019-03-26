@@ -1,0 +1,5 @@
+fp="$HOME/default_file_location"
+until [ -e $fp ]; do
+	read -p "Geef de bestandslocatie: " pf
+done
+f=$(cat $fp)

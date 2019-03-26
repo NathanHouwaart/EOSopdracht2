@@ -1,0 +1,9 @@
+uitgevoerd command: -x
+
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//toPNG.sh : geslaagd
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//.DS_Store : failed
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//telBestandtypes.sh : geslaagd
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//checkStatus.sh : geslaagd
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//sorteerAfbeeldingen.sh : geslaagd
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//vakantieFotos.sh : geslaagd
+test op /Users/nathanhouwaart/CLionProjects/EOSopdracht2//logfile.txt : failed

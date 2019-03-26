@@ -1,0 +1,7 @@
+declare -a ARR=$(find .)
+
+for file in $ARR; do
+
+ln $file './ext[.*]
+
+done
