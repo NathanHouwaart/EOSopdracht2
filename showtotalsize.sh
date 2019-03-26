@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+#Berekent de total size van de huidige map
+#Doet dit door de vijfde kolom van ls -laS te printen
+#Telt alle waardes bij elkaar op in variabele 'totalsize'
+#Vertaalt vervolgens de total size in human readable bytes en echo't deze naar het scherm
+
 x=$(ls -laS | awk '{ print $5 }')
 
 bytesToHuman() {
